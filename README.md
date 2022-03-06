@@ -34,7 +34,11 @@ Telegram bot to generate pyrogram and telethon string session.
    ```markdown
    cd STRING-GEN-BOT
    ```
-5. Run the file
+   5. Install Requirements
+   pip3 install -U -r requirements.txt
+   ```
+   
+6. Run the file
    ```markdown
    python3 generator.py
    ```

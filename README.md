@@ -2,7 +2,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://github.com/Devil-Official/STRING-GEN-BOT"><img src="https://telegra.ph/file/7ec22c82f580a334dd13e.jpg" width="200"></a></p>
+<p align="center"><a href="https://github.com/Devil-Official/STRING-GEN-BOT"><img src="https://telegra.ph/file/ab26c3ec1590e82c41e00.png" width="200"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
